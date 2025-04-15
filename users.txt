@@ -1,6 +1,6 @@
-ADM001,admin,Administrator,admin@school.edu,admin
-STU001,john_doe,John Doe,john@school.edu,student
-STU002,jane_smith,Jane Smith,jane@school.edu,student
-STU003,mike_jones,Mike Jones,mike@school.edu,student
-STU004,sarah_wilson,Sarah Wilson,sarah@school.edu,student
-STU005,david_brown,David Brown,david@school.edu,student1122,loki,lokesh,loki@gmail.com,student
+A001,admin,Administrator,admin@school.edu,admin
+S001,lokesh,lokesh bhatta,lokesh@tbc.edu,student
+S002,,reshav,reshav karna,karna@tbc.edu,student
+S003,drabya,drabya hamal,hamal@tbc.edu,student
+S004,ram,ram hari,ram@tbc.edu,student
+S005,sita,sita gita,sita@tbc.edu,student
