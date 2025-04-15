@@ -1,6 +1,6 @@
-ADM001,
-STU001,Football,Debate Club
-STU002,Chess Club,Science Club
-STU003,Basketball,Music Band
-STU004,Art Club,Photography
-STU005,Drama Club,School Newspaper1122,,
+A001,
+S001,Football,Debate Club
+S002,Chess Club,Science Club
+S003,Basketball,Music Band
+S004,Art Club,Photography
+S005,Drama Club,School Newspaper1122,,
