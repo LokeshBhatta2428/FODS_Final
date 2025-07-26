@@ -216,6 +216,7 @@ class Admin(User):
             return
             
         with open('users.txt', 'w') as f:
+            
             f.write('\n'.join(updated_users) + '\n')
         
         print("Personal information updated successfully!")
@@ -709,4 +710,6 @@ def main():
             print("Invalid choice!")
 
 if __name__ == "__main__":
-    main()
+    main()                                                              
+
+                                                                                              

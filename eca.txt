@@ -4,3 +4,4 @@ S002,Chess Club,Science Club
 S003,Basketball,Music Band
 S004,Art Club,Photography
 S005,Drama Club,School Newspaper1122,,
+S0007,,

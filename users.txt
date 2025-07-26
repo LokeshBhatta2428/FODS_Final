@@ -4,3 +4,4 @@ S002,,reshav,reshav karna,karna@tbc.edu,student
 S003,drabya,drabya hamal,hamal@tbc.edu,student
 S004,ram,ram hari,ram@tbc.edu,student
 S005,sita,sita gita,sita@tbc.edu,student
+S0007,random,random,ran@gmail.com,student
